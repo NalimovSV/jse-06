@@ -5,6 +5,7 @@ import static ru.nalimov.tm.constant.TerminalConst.*;
 /*Тестовое*/
 
 public class Main {
+
     public static void main(final String[] args) {
        run(args);
        displayWelcome();
@@ -22,6 +23,7 @@ public class Main {
         }
 
     }
+
     private  static void displayVersion() {
         System.out.println("ver 1.0");
         System.exit(0);
