@@ -15,14 +15,14 @@ public class Main {
         if (args.length < 1) return;
         final String param = args[0];
         switch (param) {
-            case VERSION: displayVer();
+            case VERSION: displayVersion();
             case ABOUT: displayAbout();
             case HELP: displayHelp();
             default: displayErr();
         }
 
     }
-    private  static void displayVer() {
+    private  static void displayVersion() {
         System.out.println("ver 1.0");
         System.exit(0);
     }
