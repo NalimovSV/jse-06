@@ -4,7 +4,7 @@ import static ru.nalimov.tm.constant.TerminalConst.*;
 
 /*Тестовое*/
 
-public class Main {
+public class app {
 
     public static void main(final String[] args) {
        run(args);
