@@ -1,3 +1,0 @@
-''"Добавлен Apache Maven'''
-'"werwerw''
-
