@@ -1,6 +1,6 @@
 package ru.nalimov.tm;
 
-import static ru.nalimov.tm.TerminalConst.*;
+import static ru.nalimov.tm.constant.TerminalConst.*;
 
 /*Создали через Apache Maven*/
 
