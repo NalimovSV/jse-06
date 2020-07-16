@@ -10,7 +10,6 @@
 ##### Сборка приложения
 mvn clean \ mvn install
  ##### Запуск приложения
->>>>>>> c19228f0fcfa6d7512c4c1bd20b2f2c1988c7da6
 ```
 jse-03>java -jar ./target/task-manager-1.0.2.jar help   
 ```
