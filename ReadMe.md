@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 #### Ïğîãğàììà 
-"task-manager" ver 1.0.2                                                                                                        
+"task-manager" ver 1.0.3                                                                                                        
 ##### Òğåáîâàíèÿ ê Software
  Open JDK 11 
                                                                                                                     
@@ -10,21 +9,7 @@
  nalimov_sv@nlmk.com
 ##### Ñáîğêà ïğèëîæåíèÿ
 mvn clean \ mvn install
- ##### Çàïóñê ïğèëîæåíèÿ
-=======
-#### ĞŸÑ€Ğ¾Ğ³Ñ€Ğ°Ğ¼Ğ¼Ğ° 
-"task-manager" ver 1.0.2                                                                                                        
-##### Ğ¢Ñ€ĞµĞ±Ğ¾Ğ²Ğ°Ğ½Ğ¸Ñ Ğº Software
- Open JDK 11 
-                                                                                                                    
-##### Ğ¡Ñ‚ĞµĞº Ñ‚ĞµÑ…Ğ½Ğ¾Ğ»Ğ¾Ğ³Ğ¸Ğ¹
- Apache Maven 3.6.1
-##### Ğ Ğ°Ğ·Ñ€Ğ°Ğ±Ğ¾Ñ‚Ñ‡Ğ¸Ğº
- nalimov_sv@nlmk.com
-##### Ğ¡Ğ±Ğ¾Ñ€ĞºĞ° Ğ¿Ñ€Ğ¸Ğ»Ğ¾Ğ¶ĞµĞ½Ğ¸Ñ
-mvn clean \ mvn install
- ##### Ğ—Ğ°Ğ¿ÑƒÑĞº Ğ¿Ñ€Ğ¸Ğ»Ğ¾Ğ¶ĞµĞ½Ğ¸Ñ
->>>>>>> 07acb23c913c283ac25946bf3267417a9c97863d
+##### Çàïóñê ïğèëîæåíèÿ
 ```
 jse-03>java -jar ./target/task-manager-1.0.2.jar help   
 ```

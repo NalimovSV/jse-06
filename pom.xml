@@ -6,7 +6,7 @@
 
     <groupId>ru.nalimov.tm</groupId>
     <artifactId>task-manager</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
 
     <name>task-manager</name>
     <url>http://www.example.com</url>
