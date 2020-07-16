@@ -1,17 +1,3 @@
-<<<<<<< HEAD
-#### Программа 
-"task-manager" ver 1.0.2                                                                                                        
-##### Требования к Software
- Open JDK 11 
-                                                                                                                    
-##### Стек технологий
- Apache Maven 3.6.1
-##### Разработчик
- nalimov_sv@nlmk.com
-##### Сборка приложения
-mvn clean \ mvn install
- ##### Запуск приложения
-=======
 #### РџСЂРѕРіСЂР°РјРјР° 
 "task-manager" ver 1.0.2                                                                                                        
 ##### РўСЂРµР±РѕРІР°РЅРёСЏ Рє Software
