@@ -12,7 +12,7 @@ mvn clean \ mvn package \mvn install
 ```
 jse-04> java -jar ./target/task-manager-1.0.3.jar help
 ```
-версия - Показать версию программы.
-about - Показать информацию для разработчиков.
-help - Показать список команд терминала.
-выход - выход
+version - Display program version
+about - Display developer info
+help - Display list of terminal commands
+exit - exit
