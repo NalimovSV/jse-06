@@ -1,19 +1,20 @@
-##### РџСЂРѕРіСЂР°РјРјР°
-"task manager" РІРµСЂСЃРёСЏ 1.0.3
-###### РўСЂРµР±РѕРІР°РЅРёСЏ Рє РџРћ
-Open JDK 11
-###### РЎС‚РµРє С‚РµС…РЅРѕР»РѕРіРёР№
-Apache Maven 3.6.1
-###### Р Р°Р·СЂР°Р±РѕС‚С‡РёРє
-nalimov_sv@nlmk.com
-###### РЎР±РѕСЂРєР° РїСЂРёР»РѕР¶РµРЅРёСЏ
-mvn clean \ mvn package \mvn install
-###### Р—Р°РїСѓСЃРє РїСЂРёР»РѕР¶РµРЅРёР№
+#### Программа 
+"task-manager" ver 1.0.3
+##### Требования к Software
+ Open JDK 11 
+                                                                                                                    
+##### Стек технологий
+ Apache Maven 3.6.1
+##### Разработчик
+ nalimov_sv@nlmk.com
+##### Сборка приложения
+mvn clean \ mvn install
+##### Запуск приложения
 ```
-jse-04> java -jar ./target/task-manager-1.0.3.jar help
+jse-03>java -jar ./target/task-manager-1.0.2.jar help   
 ```
-##### РљР»СЋС‡Рё Р·Р°РїСѓСЃРєР°
-###### version - Display program version
-###### about - Display developer info
-###### help - Display list of terminal commands
-###### exit - exit
+##### Ключи запуска
+version - Display program version.
+about - Display developer info.
+help - Display list of terminal commands. 
+exit - Exit.  
