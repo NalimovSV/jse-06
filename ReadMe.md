@@ -8,7 +8,7 @@ Apache Maven 3.6.1
 nalimov_sv@nlmk.com
 ###### Сборка приложения
 mvn clean \ mvn install
-######Запуск приложений
+###### Запуск приложений
 ```
 jse-04> java -jar ./target/task-manager-1.0.3.jar help
 ```
