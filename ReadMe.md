@@ -1,5 +1,5 @@
 #### Программа 
-"task-manager" ver 1.0.3
+"task-manager" ver 1.0.3                                                                                                        
 ##### Требования к Software
  Open JDK 11 
                                                                                                                     
@@ -13,8 +13,6 @@ mvn clean \ mvn install
 ```
 jse-03>java -jar ./target/task-manager-1.0.2.jar help   
 ```
-##### Ключи запуска
-###### version - Display program version.
-###### about - Display developer info.
-###### help - Display list of terminal commands. 
-###### exit - Exit.  
+version - Display program version.
+about - Display developer info.
+help - Display list of terminal commands.   
