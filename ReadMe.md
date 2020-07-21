@@ -18,3 +18,6 @@ about - Display developer info.
 help - Display list of terminal commands.
 exit - Exit
 ```
+```
+https://github.com/NalimovSV/jse-06
+```
