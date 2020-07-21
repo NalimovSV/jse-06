@@ -9,5 +9,12 @@
 ###### mvn clear / mvn install
 ##### Запуск приложения
 ```
-jse-03>java -jar ./target/task-manager-1.0.2.jar ```                                                                                                                                
-       version - Display program version.                                                                                                        about - Display developer info.                                                                                                           help - Display list of terminal commands. 
+jse-03>java -jar ./target/task-manager-1.0.2.jar
+```
+##### Ключи запуска приложения
+```
+version - Display program version.
+about - Display developer info.
+help - Display list of terminal commands.
+exit - Exit
+```
