@@ -9,7 +9,7 @@
 ###### mvn clear / mvn install
 ##### Запуск приложения
 ```
-jse-03>java -jar ./target/task-manager-1.0.2.jar
+jse-03>java -jar ./target/task-manager-1.0.2.jar help
 ```
 ##### Ключи запуска приложения
 ```
